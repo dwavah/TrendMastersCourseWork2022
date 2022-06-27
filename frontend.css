@@ -1,0 +1,262 @@
+.main div{
+   
+}
+.first_div{
+    background-color: rgb(75, 6, 6);
+    height: 100px;
+    width: 100%;
+}
+.second_div{
+    background-color: orangered;
+    height: 20px;
+    width: 100%;
+}
+.third_div{
+    background-color: rgb(71, 66, 66);
+    height: 3800px;
+    width: 100%;
+}
+.forth_div{
+    background-color: black;
+    height: 360px;
+    width: 100%;
+}
+.private{
+    font-family: Agency FB ;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    bottom: 81%;
+    left: 10%;
+}
+.masterz{
+    font-family: Brush Script MT;
+    color: rgb(151, 8, 8);
+    font-size: 60px;
+    position: absolute;
+    left: 18.5%;
+    top: 1%;
+}
+.move{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    padding-left: 60%;
+
+}
+.move li{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+.move li a{
+    color: white;
+    text-decoration: none;
+}
+.private1{
+    font-family: Agency FB ;
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    bottom: -448%;
+    left: 10%;
+}
+.masterz1{
+    font-family: Brush Script MT;
+    color: rgb(151, 8, 8);
+    font-size: 60px;
+    position: absolute;
+    left: 18.5%;
+    bottom: -452%;
+}
+.move1{
+    display: flex;
+    list-style: none;
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+    padding-left: 30%;
+}
+.move1 li{
+    padding: 20px;
+    color: rgb(239, 230, 230);
+    text-decoration: none;
+}
+.move1 li a{
+    color: rgb(129, 124, 124);
+    text-decoration: none;
+}
+.AppsGoogle{
+   padding-left: 150px;
+ 
+}
+.logos{
+    padding-left: 150px;
+}
+.origin{
+    color: gray;
+    padding-left: 1px;
+}
+.copyright{
+    color: gray;
+    padding-left: 800px;
+    font-size: 12px;
+}
+.email{
+    padding-left: 1px;
+}
+.mainbody1{
+    text-align: center;
+    font-size: 25px;
+
+}
+#circles{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: grey;
+    border-width: 20px;
+    margin-right: 40px;
+    text-align: center;
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+#ion{
+    font-size: 70px;
+}
+.headings{
+    padding-right: 80px;
+}
+.s1{
+    padding-right: 30px;
+}
+.first{
+    display: flex;
+    padding-left: 350px;    
+}
+.buttonstart{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(167, 16, 16);
+    width: 120px;
+    height: 30px;    
+}
+.second{
+    display: flex;
+    padding-left: 350px; 
+
+}
+.third{
+    display: flex;
+    padding-left: 350px;
+}
+.fourth{
+    display: flex;
+    padding-left: 350px;
+}
+.fifth{
+    display: flex;
+    padding-left: 350px;
+}
+.sixth{
+    display: flex;
+    padding-left: 350px
+}
+.mainbody2{
+    text-align: center;
+    font-size: 25px;
+}
+.rect{
+    height: 450px;
+    width: 250px;
+    color: white;
+    background-color: #383838;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-content: flex-end;
+    align-items: flex-end;
+}
+.bjava{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(167, 165, 16);
+    width: 120px;
+    height: 30px; 
+}
+.bcss{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(77, 156, 205);
+    width: 120px;
+    height: 30px; 
+}
+.bnode{
+    color: white;
+    border-radius: 30px;
+    background-color: green;
+    width: 120px;
+    height: 30px; 
+}
+.bvue{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(118, 221, 118);
+    width: 120px;
+    height: 30px; 
+}
+.breact{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(55, 103, 133);
+    width: 120px;
+    height: 30px; 
+}
+.bang{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(237, 58, 58);
+    width: 120px;
+    height: 30px; 
+}
+.btyp{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(44, 104, 141);
+    width: 120px;
+    height: 30px; 
+}
+.bfunc{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(30, 142, 58);
+    width: 120px;
+    height: 30px; 
+}.bpyt{
+    color: white;
+    border-radius: 30px;
+    background-color: rgb(11, 57, 85);
+    width: 120px;
+    height: 30px; 
+}
+.bweb{
+    color: white;
+    border-radius: 30px;
+    background-color: darkblue;
+    width: 120px;
+    height: 30px; 
+}.basyn{
+    color: white;
+    border-radius: 30px;
+    background-color: hotpink;
+    width: 120px;
+    height: 30px; 
+}
