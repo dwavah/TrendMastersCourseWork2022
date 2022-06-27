@@ -1,0 +1,1 @@
+# TrendMastersCourseWork2022
